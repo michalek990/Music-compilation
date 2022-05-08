@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1589745162 source:c:\users\michal\desktop\skladanka muzyczna 2020\main.cpp
+	<iostream>
+	"muzyka.h"
+
+1589731299 c:\users\michal\desktop\skladanka muzyczna 2020\muzyka.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1589731609 source:c:\users\michal\desktop\skladanka muzyczna 2020\muzyka.cpp
+	"muzyka.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1589745162 source:c:\users\michal\desktop\programy\c++\skladanka muzyczna 2020\main.cpp
+	<iostream>
+	"muzyka.h"
+
+1589731299 c:\users\michal\desktop\programy\c++\skladanka muzyczna 2020\muzyka.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1589731609 source:c:\users\michal\desktop\programy\c++\skladanka muzyczna 2020\muzyka.cpp
+	"muzyka.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1589737962 source:c:\users\michal\desktop\1 rok\c++\skladanka muzyczna 2020\main.cpp
+	<iostream>
+	"muzyka.h"
+
+1589724099 c:\users\michal\desktop\1 rok\c++\skladanka muzyczna 2020\muzyka.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1589724409 source:c:\users\michal\desktop\1 rok\c++\skladanka muzyczna 2020\muzyka.cpp
+	"muzyka.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+
